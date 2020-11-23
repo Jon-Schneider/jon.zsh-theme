@@ -7,5 +7,5 @@ PROMPT="╭─ ${history_number} ${current_dir}%f ${git_branch}
 
 ZSH_THEME_GIT_PROMPT_PREFIX="%F{blue}git:%F{red}("
 ZSH_THEME_GIT_PROMPT_SUFFIX="%f"
-ZSH_THEME_GIT_PROMPT_DIRTY=")%F{blue} %F{yellow}✗"
-ZSH_THEME_GIT_PROMPT_CLEAN=")%f ✔"
+ZSH_THEME_GIT_PROMPT_DIRTY=")"
+ZSH_THEME_GIT_PROMPT_CLEAN="*)"
